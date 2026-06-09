@@ -1,0 +1,7 @@
+=== ENTREGA PRÁCTICA 1 ===
+Hostname: pau-Modern-15-B7M
+Usuario: pau
+Linux pau-Modern-15-B7M 7.0.0-14-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026 x86_64 GNU/Linux
+    inet 192.168.0.13/24 brd 192.168.0.255 scope global dynamic noprefixroute wlp1s0
+                Time zone: Europe/Madrid (CEST, +0200)
+122
