@@ -1,4 +1,4 @@
-# Práctica 1 — [Instalacion y entorno]
+# Práctica 2 — [Comandos básicos]
 
 ## Servidor / entorno utilizado
 - Método: Dual Boot con Ubuntu
@@ -7,11 +7,11 @@
 
 ## Dificultades encontradas
 <!-- Describe al menos un problema real que tuviste y cómo lo solucionaste --> 
-hice apuntes en hojas externas a la entrega
+algunas consultas son muy complejas
 
 ## Tiempo dedicado
 <!-- Ej: 2 horas -->
-20 mins
+1h (por ahora)
 
 ## Evidencia
 Los ficheros generados están en la carpeta `entrega/`
