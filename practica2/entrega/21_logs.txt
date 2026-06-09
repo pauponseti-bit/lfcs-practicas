@@ -1,0 +1,2 @@
+/home/pau/Documentos/Git/lfcs-practicas/lfcs-practicas/practica2/work/escenario_21/src/old/legacy.log
+/home/pau/Documentos/Git/lfcs-practicas/lfcs-practicas/practica2/work/escenario_21/src/old/legacy.LOG

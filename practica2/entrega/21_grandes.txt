@@ -1,0 +1,1 @@
+-rw-rw-r-- 1 pau pau 12M Jun  9 19:05 escenario_21/tmp/big.bin
