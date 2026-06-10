@@ -1,0 +1,2 @@
+-rwx------ 1 pau pau 30 Jun  9 19:05 work/escenario_21/bin/hola.sh
+/usr/bin/bash
