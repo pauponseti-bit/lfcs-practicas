@@ -1,0 +1,4 @@
+$ umask 007
+$ touch work/escenario_21/tmp/umask_test.txt
+$ ls -l work/escenario_21/tmp/umask_test.txt
+-rw-rw---- 1 pau pau 0 Jun 11 18:13 work/escenario_21/tmp/umask_test.txt
